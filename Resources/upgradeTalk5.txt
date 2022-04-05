@@ -1,0 +1,6 @@
+P: 
+METeA AUTOPILOT installing… complete. Updated to the latest version.
+A: 
+ID: 996007 start synchronizing data. SYNCHRONIZE…
+P: 
+…COMPLETED. LOOPING ROUTINE ENABLE. LOOP ENDING TBD.
